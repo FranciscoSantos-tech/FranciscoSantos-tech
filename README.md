@@ -77,7 +77,7 @@ Every project here represents progress.
 
 <div align="center">
 
-![GitHub Contribution Grid](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=tokyo-night\&hide_border=true)
+![GitHub Contribution Grid](https://github-readme-activity-graph.vercel.app/graph?username=FranciscoSantos-tech\&theme=tokyo-night\&hide_border=true)
 
 </div>
 
