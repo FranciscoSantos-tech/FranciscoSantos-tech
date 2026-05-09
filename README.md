@@ -73,15 +73,15 @@ Every project here represents progress.
 
 ---
 
-## GitHub Stats
+## Contribution Activity
 
 <div align="center">
 
+![GitHub Contribution Grid](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=tokyo-night\&hide_border=true)
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
 </div>
+
+Your contribution graph represents consistency, discipline, and daily progress.
 
 ---
 
